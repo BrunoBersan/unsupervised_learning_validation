@@ -1,8 +1,3 @@
-A seguir está um **README profissional**, completo, organizado, sem expressões associadas à autoria por IA, sem emojis, com tabelas e com foco em clareza, reprodutibilidade e credibilidade técnica.
-Todo o conteúdo foi construído com base direta no documento enviado .
-
----
-
 # Unsupervised Learning on Country Data
 
 ### Clusterização, Validação e Similaridade em Séries Temporais
@@ -213,8 +208,3 @@ A abordagem entrega uma visão robusta para segmentação de países e oferece b
 
 ---
 
-Se desejar, posso gerar também:
-
-* Um PDF formatado para apresentação
-* Uma versão curta do README
-* Uma versão em inglês para o GitHub
